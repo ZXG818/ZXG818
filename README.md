@@ -1,4 +1,4 @@
-### 你好！（nihao！） 👋
+### 你好！👋
 
 This is **Xingguang Zhou**, a student @Xi'an Jiaotong University.
 
