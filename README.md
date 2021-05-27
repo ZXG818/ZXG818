@@ -11,4 +11,5 @@ This is **Xingguang Zhou**, a student @Xi'an Jiaotong University.
 - ⚡ Fun fact: A slim tall guy, my mate also gave me a nickname called *long legged short necked deer* in high school.
 - ❤️ Alma mater: Southwest University of Science and Technology, all for my love.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZXG818)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZXG818&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXG818&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
