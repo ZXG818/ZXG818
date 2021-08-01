@@ -2,7 +2,7 @@
 
 This is **Xingguang Zhou**, a student @Xi'an Jiaotong University.
 
-- 💬 Discuss with me about nuclear reactor physics, nuclear reactor thermal-hydraulics.
+- 💬 Welcome to discuss the nuclear reactor physics and nuclear reactor thermal-hydraulics with me.
 - 📫 How to reach me: *zxg818@stu.xjtu.edu.cn*
 - ❤️ Alma mater: Southwest University of Science and Technology, a really good time in my life, also remember my mates with longing.
 
